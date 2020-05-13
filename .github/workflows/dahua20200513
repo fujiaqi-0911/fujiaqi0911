@@ -11,3 +11,11 @@ transient表示不参与序列化和反序列化。当一个成员变量用trans
 当插入的数据大于阈值时。hashmap会自动扩容一倍。
 6.扩容机制
 https://blog.csdn.net/u010890358/article/details/80496144#%E6%89%A9%E5%AE%B9%E6%9C%BA%E5%88%B6%E6%A0%B8%E5%BF%83%E6%96%B9%E6%B3%95Node%3CK%2CV%3E%5B%5D%20resize()
+7.链表树化合红黑树链化
+https://www.jianshu.com/p/56c13408ef34
+8.删除，会自动进行缩容吗？
+经测试，不会自动缩容
+9.红黑树
+https://baijiahao.baidu.com/s?id=1645429373049393021&wfr=spider&for=pc
+https://www.cnblogs.com/ysocean/p/8004211.html
+https://www.cnblogs.com/GNLin0820/p/9668378.html
